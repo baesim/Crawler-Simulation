@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC -std=c++11  -shared -Wl,-soname,libTestPresets.so -o libTestPresets.so CMakeFiles/TestPresets.dir/TestPresets.cc.o  -L/usr/lib/x86_64-linux-gnu/gazebo-9/plugins 

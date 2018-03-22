@@ -1,0 +1,3 @@
+/home/vez/Desktop/masterarbeit/sim/plugins/build/CMakeFiles/edit_cache.dir
+/home/vez/Desktop/masterarbeit/sim/plugins/build/CMakeFiles/rebuild_cache.dir
+/home/vez/Desktop/masterarbeit/sim/plugins/build/CMakeFiles/CTestPresets.dir
