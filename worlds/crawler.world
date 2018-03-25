@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<sdf version="1.5">
+  <world name="default">
+    <!-- Ground -->
+    <include>
+      <uri>model://usr/share/gazebo-9/models/ground_plane</uri>
+    </include>
+    <!-- crawler -->
+    <include>
+      <uri>model:/model_editor_models/models/krabbler_v5</uri>
+      <pose>0 0 0 0 0 0</pose>
+    </include>
+    <!-- A global light source -->
+    <include>
+      <uri>model://usr/share/gazebo-9/models/sun</uri>
+    </include>
+  </world>
+</sdf>
+
