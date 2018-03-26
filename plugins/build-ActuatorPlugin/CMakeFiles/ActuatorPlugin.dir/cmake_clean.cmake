@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/ActuatorPlugin.dir/main.cpp.o"
+  "CMakeFiles/ActuatorPlugin.dir/CCrawler.cpp.o"
   "ActuatorPlugin.pdb"
   "ActuatorPlugin"
 )

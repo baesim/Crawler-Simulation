@@ -1,1 +1,1 @@
-/usr/bin/c++      CMakeFiles/ActuatorPlugin.dir/main.cpp.o  -o ActuatorPlugin -rdynamic 
+/usr/bin/c++   -std=c++11   CMakeFiles/ActuatorPlugin.dir/main.cpp.o CMakeFiles/ActuatorPlugin.dir/CCrawler.cpp.o  -o ActuatorPlugin  -L/usr/lib/x86_64-linux-gnu/gazebo-9/plugins -rdynamic -lboost_thread -lboost_date_time -lboost_system -lboost_atomic -lboost_chrono -lpthread -Wl,-rpath,/usr/lib/x86_64-linux-gnu/gazebo-9/plugins 

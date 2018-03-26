@@ -21,8 +21,9 @@ namespace gazebo
         void get_sensors();
         void set_actuators();
         void reset_crawler();
+        void on_iteration();
 
-  private:
+    private:
         physics::ModelPtr model; // Store the model
 
         /*******************
@@ -37,7 +38,12 @@ namespace gazebo
         physics::JointPtr jt_l2_bl;
         physics::JointPtr jt_l2_br;
 
+        // Event for the begin of a gazebo iteration
+        private: event::ConnectionPtr an_iteration;
+
+        // Define zero position
         const ignition::math::Pose3d zero_pose;
+
   };
 
   // Register this plugin with the simulator

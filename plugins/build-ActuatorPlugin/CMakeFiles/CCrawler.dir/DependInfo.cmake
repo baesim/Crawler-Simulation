@@ -28,6 +28,8 @@ set(CMAKE_CXX_TARGET_INCLUDE_PATH
   "/usr/include/ignition/msgs1"
   "/usr/include/ignition/common1"
   "/usr/include/ignition/fuel_tools1"
+  "/usr/include/uuid"
+  "/usr/include/x86_64-linux-gnu"
   )
 
 # Targets to which this target links.

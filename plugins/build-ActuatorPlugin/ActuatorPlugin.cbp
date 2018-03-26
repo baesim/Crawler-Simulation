@@ -61,6 +61,7 @@
             <Add directory="/usr/include/ignition/transport4" />
             <Add directory="/usr/include/sdformat-6.0" />
             <Add directory="/usr/include/simbody" />
+            <Add directory="/usr/include/uuid" />
             <Add directory="/usr/include/x86_64-linux-gnu" />
             <Add directory="/usr/include/x86_64-linux-gnu/c++/5" />
             <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include" />
@@ -98,6 +99,7 @@
             <Add directory="/usr/include/ignition/transport4" />
             <Add directory="/usr/include/sdformat-6.0" />
             <Add directory="/usr/include/simbody" />
+            <Add directory="/usr/include/uuid" />
             <Add directory="/usr/include/x86_64-linux-gnu" />
             <Add directory="/usr/include/x86_64-linux-gnu/c++/5" />
             <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include" />

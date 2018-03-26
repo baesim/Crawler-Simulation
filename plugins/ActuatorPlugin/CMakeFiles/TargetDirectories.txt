@@ -1,0 +1,3 @@
+/home/vez/Desktop/masterarbeit/git/plugins/ActuatorPlugin/CMakeFiles/edit_cache.dir
+/home/vez/Desktop/masterarbeit/git/plugins/ActuatorPlugin/CMakeFiles/rebuild_cache.dir
+/home/vez/Desktop/masterarbeit/git/plugins/ActuatorPlugin/CMakeFiles/CCrawler.dir
